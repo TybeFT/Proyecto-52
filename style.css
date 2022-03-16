@@ -1,0 +1,68 @@
+.menu {
+    background-color: black;
+    display: flex;
+    font-size: 15px;
+    justify-content: space-between;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
+
+.bodyimg {
+    background-image: url(metalBG.jpg);
+    font-family: fantasy;
+    font-size:20;
+    color: rgb(12, 12, 12);
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami {
+    border-radius: 20px;
+    background-color: white;
+    width:310px;
+    font-family: fantasy;
+    padding: 30px;
+    margin: 25px;
+}
+
+body {
+    margin: 0px;
+    background-color: whitesmoke;
+}
+
+.titleA h1{
+    font-family: Arial;
+    margin-left: 100px;
+}
+
+.namecreator {
+    padding: 2px;
+    margin: 5px;
+    background-color: rgb(5, 133, 90);
+}
+
+.backmenu {
+    display: flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.features {
+    font-family: Verdana;
+}
+
+.flexBox1 {
+    display: flex;
+    justify-content: space-between;
+}
